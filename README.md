@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Junior
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+%7C+JavaScript+%7C+Python;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cyber Security Student;TypeScript+%7C+JavaScript+%7C+Python;" alt="Typing SVG" />
 
 </div>
 
