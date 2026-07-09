@@ -2,8 +2,6 @@
 
 # 👋 Olá, eu sou o Junior
 
-### Desenvolvedor apaixonado por criar soluções com TypeScript, JavaScript e Python.
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+%7C+JavaScript+%7C+Python;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
 
 </div>
@@ -12,8 +10,7 @@
 
 ## 🚀 Sobre mim
 
-* 💻 Desenvolvendo aplicações web modernas
-* ⚙️ Criando APIs e automações
+* ⚙️ Criando Automações
 * 📚 Sempre aprendendo novas tecnologias
 * 🎯 Buscando escrever código limpo e escalável
 
