@@ -26,28 +26,6 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=warkantos&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warkantos&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=warkantos&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Vamos nos conectar
 
 <p align="center">
